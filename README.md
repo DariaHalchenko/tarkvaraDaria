@@ -1,4 +1,4 @@
-# tarkvaraDaria
+# Ülesanded
 
 1. Lisage ripploetelu värvidega. Värvi valimisel peaks taust muutuma valitud värviks.
 2. Lisage nupp „Reset“. Kui sellele nupule vajutatakse, peaks taust muutuma valgeks.
