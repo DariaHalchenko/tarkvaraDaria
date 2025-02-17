@@ -6,3 +6,7 @@ const colorSelect = document.getElementById("color-select");
 colorSelect.addEventListener("change", function() {
     document.body.style.backgroundColor = this.value;
 });
+const resetButton = document.getElementById("resetbtn");
+resetButton.addEventListener("click", function() {
+    document.body.style.backgroundColor = "white";
+});
