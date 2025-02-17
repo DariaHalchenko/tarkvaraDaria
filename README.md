@@ -6,6 +6,7 @@
 4. Lisage võimalus valida paleti kaudu mis tahes taustavärvi.
 5. Lisage lehekülje jaoks stiil . Lisa sujuv taustamuutus. Lisage efekt, kui nupu kohal hõljumine toimub (nt see muutub suuremaks ja ilmub vari).
 
-#Lisaülesanded
+# Lisaülesanded
+
 6. Lisage võimalus muuta kirjastiili ja -suurust.
 7. Lisada võimalus lohistada päise ( jQuery).
